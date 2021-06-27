@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with Java.
-- 💬 Ask me about Java.
+- 🔭 I’m currently working with Java, Micronaut (from 1.0.0 -> up to 3.0.0), Java on AWS.
+- 💬 Ask me about Java, Micronaut, Java on AWS.
 - 💬 Tell me about everything.
 - ⚡ Fun fact: Some people actually renamed git's *master* -> *main*.
 
